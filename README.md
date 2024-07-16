@@ -4,6 +4,11 @@ A native music player application built with Expo, React Native, Typescript and 
 
 You can follow along the entire development of this project here 👇
 
+# Set up your environment
+
+For setup see link below:
+https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=physical&mode=development-build&buildEnv=local#set-up-an-android-device-with-a-development-build
+
 <h3 align="center"> 📸 Screenshot</h3>
   
   ![appwrite page](/songs.png)
