@@ -39,3 +39,7 @@ npx expo run:ios
 # Run android
 
 npx expo run:android
+
+# clean prebuild
+
+expo prebuild --clean
