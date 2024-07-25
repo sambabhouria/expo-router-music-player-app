@@ -11,14 +11,10 @@ https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&devi
 
 <h3 align="center"> 📸 Screenshot</h3>
   
-  ![appwrite page](/songs.png)
-  ![appwrite page](/search.png)
-  ![appwrite](/selected-artist.png)
-  ![seach-page](/add-fav.png)
-  ![login-succes-page](/active.png)
-  ![SrollListView-page](/artist.png)
-  ![appwrite](/queue-concept.png)
-  ![app](/queue-concept-2.png)
+  ![appwrite page](/songs.png)![appwrite page](/search.png)
+  ![appwrite](/selected-artist.png)![seach-page](/add-fav.png)
+  ![login-succes-page](/active.png)![SrollListView-page](/artist.png)
+  ![appwrite](/queue-concept.png)![app](/queue-concept-2.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
